@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FUJITSU\\source\\repos\\SortedSet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05C576F3-9BA2-4D9E-9BB2-15B2EEC3B3C4}|SortedSet\\SortedSet.csproj|c:\\users\\fujitsu\\source\\repos\\sortedset\\sortedset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C576F3-9BA2-4D9E-9BB2-15B2EEC3B3C4}|SortedSet\\SortedSet.csproj|solutionrelative:sortedset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 40,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FUJITSU\\source\\repos\\SortedSet\\SortedSet\\Program.cs",
+              "RelativeDocumentMoniker": "SortedSet\\Program.cs",
+              "ToolTip": "C:\\Users\\FUJITSU\\source\\repos\\SortedSet\\SortedSet\\Program.cs",
+              "RelativeToolTip": "SortedSet\\Program.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAQwIEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:17:17.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\FUJITSU\source\repos\TestDownloadlingWithMulti-Threading\TestDownloadlingWithMulti-Threading\bin\Debug\TestDownloadlingWithMulti-Threading.exe.config
+C:\Users\FUJITSU\source\repos\TestDownloadlingWithMulti-Threading\TestDownloadlingWithMulti-Threading\bin\Debug\TestDownloadlingWithMulti-Threading.exe
+C:\Users\FUJITSU\source\repos\TestDownloadlingWithMulti-Threading\TestDownloadlingWithMulti-Threading\bin\Debug\TestDownloadlingWithMulti-Threading.pdb
+C:\Users\FUJITSU\source\repos\TestDownloadlingWithMulti-Threading\TestDownloadlingWithMulti-Threading\obj\Debug\TestDownloadlingWithMulti-Threading.csproj.AssemblyReference.cache
+C:\Users\FUJITSU\source\repos\TestDownloadlingWithMulti-Threading\TestDownloadlingWithMulti-Threading\obj\Debug\TestDownloadlingWithMulti-Threading.csproj.CoreCompileInputs.cache
+C:\Users\FUJITSU\source\repos\TestDownloadlingWithMulti-Threading\TestDownloadlingWithMulti-Threading\obj\Debug\TestDownloadlingWithMulti-Threading.exe
+C:\Users\FUJITSU\source\repos\TestDownloadlingWithMulti-Threading\TestDownloadlingWithMulti-Threading\obj\Debug\TestDownloadlingWithMulti-Threading.pdb

@@ -1,0 +1,7 @@
+C:\Users\FUJITSU\source\repos\SortedDictionarys\SortedDictionarys\bin\Debug\SortedDictionarys.exe.config
+C:\Users\FUJITSU\source\repos\SortedDictionarys\SortedDictionarys\bin\Debug\SortedDictionarys.exe
+C:\Users\FUJITSU\source\repos\SortedDictionarys\SortedDictionarys\bin\Debug\SortedDictionarys.pdb
+C:\Users\FUJITSU\source\repos\SortedDictionarys\SortedDictionarys\obj\Debug\SortedDictionarys.csproj.AssemblyReference.cache
+C:\Users\FUJITSU\source\repos\SortedDictionarys\SortedDictionarys\obj\Debug\SortedDictionarys.csproj.CoreCompileInputs.cache
+C:\Users\FUJITSU\source\repos\SortedDictionarys\SortedDictionarys\obj\Debug\SortedDictionarys.exe
+C:\Users\FUJITSU\source\repos\SortedDictionarys\SortedDictionarys\obj\Debug\SortedDictionarys.pdb

@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FUJITSU\\source\\repos\\HashSet_Exercices\\HashSet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CDE3CE-5AF8-4AF5-82C0-2398948EB0B4}|HashSet\\HashSet.csproj|c:\\users\\fujitsu\\source\\repos\\hashset_exercices\\hashset\\hashset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CDE3CE-5AF8-4AF5-82C0-2398948EB0B4}|HashSet\\HashSet.csproj|solutionrelative:hashset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FUJITSU\\source\\repos\\HashSet_Exercices\\HashSet\\HashSet\\Program.cs",
+              "RelativeDocumentMoniker": "HashSet\\Program.cs",
+              "ToolTip": "C:\\Users\\FUJITSU\\source\\repos\\HashSet_Exercices\\HashSet\\HashSet\\Program.cs",
+              "RelativeToolTip": "HashSet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:19:58.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

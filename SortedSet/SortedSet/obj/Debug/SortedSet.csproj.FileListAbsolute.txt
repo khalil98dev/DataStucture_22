@@ -1,0 +1,7 @@
+C:\Users\FUJITSU\source\repos\SortedSet\SortedSet\bin\Debug\SortedSet.exe.config
+C:\Users\FUJITSU\source\repos\SortedSet\SortedSet\bin\Debug\SortedSet.exe
+C:\Users\FUJITSU\source\repos\SortedSet\SortedSet\bin\Debug\SortedSet.pdb
+C:\Users\FUJITSU\source\repos\SortedSet\SortedSet\obj\Debug\SortedSet.csproj.AssemblyReference.cache
+C:\Users\FUJITSU\source\repos\SortedSet\SortedSet\obj\Debug\SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\FUJITSU\source\repos\SortedSet\SortedSet\obj\Debug\SortedSet.exe
+C:\Users\FUJITSU\source\repos\SortedSet\SortedSet\obj\Debug\SortedSet.pdb

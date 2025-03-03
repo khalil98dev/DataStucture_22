@@ -1,0 +1,10 @@
+C:\Users\FUJITSU\source\repos\RunAllSqlScriptsAtOnce\RunAllSqlScriptsAtOnce\obj\Debug\RunAllSqlScriptsAtOnce.csproj.AssemblyReference.cache
+C:\Users\FUJITSU\source\repos\RunAllSqlScriptsAtOnce\RunAllSqlScriptsAtOnce\obj\Debug\RunAllSqlScriptsAtOnce.Form1.resources
+C:\Users\FUJITSU\source\repos\RunAllSqlScriptsAtOnce\RunAllSqlScriptsAtOnce\obj\Debug\RunAllSqlScriptsAtOnce.Properties.Resources.resources
+C:\Users\FUJITSU\source\repos\RunAllSqlScriptsAtOnce\RunAllSqlScriptsAtOnce\obj\Debug\RunAllSqlScriptsAtOnce.csproj.GenerateResource.cache
+C:\Users\FUJITSU\source\repos\RunAllSqlScriptsAtOnce\RunAllSqlScriptsAtOnce\obj\Debug\RunAllSqlScriptsAtOnce.csproj.CoreCompileInputs.cache
+C:\Users\FUJITSU\source\repos\RunAllSqlScriptsAtOnce\RunAllSqlScriptsAtOnce\bin\Debug\RunAllSqlScriptsAtOnce.exe.config
+C:\Users\FUJITSU\source\repos\RunAllSqlScriptsAtOnce\RunAllSqlScriptsAtOnce\bin\Debug\RunAllSqlScriptsAtOnce.exe
+C:\Users\FUJITSU\source\repos\RunAllSqlScriptsAtOnce\RunAllSqlScriptsAtOnce\bin\Debug\RunAllSqlScriptsAtOnce.pdb
+C:\Users\FUJITSU\source\repos\RunAllSqlScriptsAtOnce\RunAllSqlScriptsAtOnce\obj\Debug\RunAllSqlScriptsAtOnce.exe
+C:\Users\FUJITSU\source\repos\RunAllSqlScriptsAtOnce\RunAllSqlScriptsAtOnce\obj\Debug\RunAllSqlScriptsAtOnce.pdb

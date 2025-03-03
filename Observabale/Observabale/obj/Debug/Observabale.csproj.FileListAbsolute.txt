@@ -1,0 +1,7 @@
+C:\Users\FUJITSU\source\repos\Observabale\Observabale\bin\Debug\Observabale.exe.config
+C:\Users\FUJITSU\source\repos\Observabale\Observabale\bin\Debug\Observabale.exe
+C:\Users\FUJITSU\source\repos\Observabale\Observabale\bin\Debug\Observabale.pdb
+C:\Users\FUJITSU\source\repos\Observabale\Observabale\obj\Debug\Observabale.csproj.AssemblyReference.cache
+C:\Users\FUJITSU\source\repos\Observabale\Observabale\obj\Debug\Observabale.csproj.CoreCompileInputs.cache
+C:\Users\FUJITSU\source\repos\Observabale\Observabale\obj\Debug\Observabale.exe
+C:\Users\FUJITSU\source\repos\Observabale\Observabale\obj\Debug\Observabale.pdb
