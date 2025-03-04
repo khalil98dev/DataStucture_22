@@ -1,0 +1,7 @@
+D:\C#\CoursesTraining\PermissionsWithBitArray\bin\Debug\PermissionsWithBitArray.exe.config
+D:\C#\CoursesTraining\PermissionsWithBitArray\bin\Debug\PermissionsWithBitArray.exe
+D:\C#\CoursesTraining\PermissionsWithBitArray\bin\Debug\PermissionsWithBitArray.pdb
+D:\C#\CoursesTraining\PermissionsWithBitArray\obj\Debug\PermissionsWithBitArray.csproj.AssemblyReference.cache
+D:\C#\CoursesTraining\PermissionsWithBitArray\obj\Debug\PermissionsWithBitArray.csproj.CoreCompileInputs.cache
+D:\C#\CoursesTraining\PermissionsWithBitArray\obj\Debug\PermissionsWithBitArray.exe
+D:\C#\CoursesTraining\PermissionsWithBitArray\obj\Debug\PermissionsWithBitArray.pdb

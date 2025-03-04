@@ -1,0 +1,7 @@
+D:\C#\CoursesTraining\HashSet_Exerceices\bin\Debug\HashSet_Exerceices.exe.config
+D:\C#\CoursesTraining\HashSet_Exerceices\bin\Debug\HashSet_Exerceices.exe
+D:\C#\CoursesTraining\HashSet_Exerceices\bin\Debug\HashSet_Exerceices.pdb
+D:\C#\CoursesTraining\HashSet_Exerceices\obj\Debug\HashSet_Exerceices.csproj.AssemblyReference.cache
+D:\C#\CoursesTraining\HashSet_Exerceices\obj\Debug\HashSet_Exerceices.csproj.CoreCompileInputs.cache
+D:\C#\CoursesTraining\HashSet_Exerceices\obj\Debug\HashSet_Exerceices.exe
+D:\C#\CoursesTraining\HashSet_Exerceices\obj\Debug\HashSet_Exerceices.pdb

@@ -1,0 +1,7 @@
+D:\C#\CoursesTraining\HashSet_Union\bin\Debug\HashSet_Union.exe.config
+D:\C#\CoursesTraining\HashSet_Union\bin\Debug\HashSet_Union.exe
+D:\C#\CoursesTraining\HashSet_Union\bin\Debug\HashSet_Union.pdb
+D:\C#\CoursesTraining\HashSet_Union\obj\Debug\HashSet_Union.csproj.AssemblyReference.cache
+D:\C#\CoursesTraining\HashSet_Union\obj\Debug\HashSet_Union.csproj.CoreCompileInputs.cache
+D:\C#\CoursesTraining\HashSet_Union\obj\Debug\HashSet_Union.exe
+D:\C#\CoursesTraining\HashSet_Union\obj\Debug\HashSet_Union.pdb

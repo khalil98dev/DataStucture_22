@@ -1,0 +1,7 @@
+D:\C#\CoursesTraining\JagedArray\bin\Debug\JagedArray.exe.config
+D:\C#\CoursesTraining\JagedArray\bin\Debug\JagedArray.exe
+D:\C#\CoursesTraining\JagedArray\bin\Debug\JagedArray.pdb
+D:\C#\CoursesTraining\JagedArray\obj\Debug\JagedArray.csproj.AssemblyReference.cache
+D:\C#\CoursesTraining\JagedArray\obj\Debug\JagedArray.csproj.CoreCompileInputs.cache
+D:\C#\CoursesTraining\JagedArray\obj\Debug\JagedArray.exe
+D:\C#\CoursesTraining\JagedArray\obj\Debug\JagedArray.pdb

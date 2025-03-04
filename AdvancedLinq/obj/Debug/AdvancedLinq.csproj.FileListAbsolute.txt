@@ -1,0 +1,7 @@
+D:\C#\CoursesTraining\Apis\Project 3\AdvancedLinq\bin\Debug\AdvancedLinq.exe.config
+D:\C#\CoursesTraining\Apis\Project 3\AdvancedLinq\bin\Debug\AdvancedLinq.exe
+D:\C#\CoursesTraining\Apis\Project 3\AdvancedLinq\bin\Debug\AdvancedLinq.pdb
+D:\C#\CoursesTraining\Apis\Project 3\AdvancedLinq\obj\Debug\AdvancedLinq.csproj.AssemblyReference.cache
+D:\C#\CoursesTraining\Apis\Project 3\AdvancedLinq\obj\Debug\AdvancedLinq.csproj.CoreCompileInputs.cache
+D:\C#\CoursesTraining\Apis\Project 3\AdvancedLinq\obj\Debug\AdvancedLinq.exe
+D:\C#\CoursesTraining\Apis\Project 3\AdvancedLinq\obj\Debug\AdvancedLinq.pdb

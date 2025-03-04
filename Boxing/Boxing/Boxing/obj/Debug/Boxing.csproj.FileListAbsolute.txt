@@ -1,0 +1,7 @@
+D:\C#\CoursesTraining\Course 22\Boxing\Boxing\Boxing\bin\Debug\Boxing.exe.config
+D:\C#\CoursesTraining\Course 22\Boxing\Boxing\Boxing\bin\Debug\Boxing.exe
+D:\C#\CoursesTraining\Course 22\Boxing\Boxing\Boxing\bin\Debug\Boxing.pdb
+D:\C#\CoursesTraining\Course 22\Boxing\Boxing\Boxing\obj\Debug\Boxing.csproj.AssemblyReference.cache
+D:\C#\CoursesTraining\Course 22\Boxing\Boxing\Boxing\obj\Debug\Boxing.csproj.CoreCompileInputs.cache
+D:\C#\CoursesTraining\Course 22\Boxing\Boxing\Boxing\obj\Debug\Boxing.exe
+D:\C#\CoursesTraining\Course 22\Boxing\Boxing\Boxing\obj\Debug\Boxing.pdb

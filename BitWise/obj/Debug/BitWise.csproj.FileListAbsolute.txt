@@ -1,0 +1,7 @@
+D:\C#\CoursesTraining\BitWise\bin\Debug\BitWise.exe.config
+D:\C#\CoursesTraining\BitWise\bin\Debug\BitWise.exe
+D:\C#\CoursesTraining\BitWise\bin\Debug\BitWise.pdb
+D:\C#\CoursesTraining\BitWise\obj\Debug\BitWise.csproj.AssemblyReference.cache
+D:\C#\CoursesTraining\BitWise\obj\Debug\BitWise.csproj.CoreCompileInputs.cache
+D:\C#\CoursesTraining\BitWise\obj\Debug\BitWise.exe
+D:\C#\CoursesTraining\BitWise\obj\Debug\BitWise.pdb

@@ -1,0 +1,7 @@
+D:\C#\CoursesTraining\Apis\Project 3\HashSet\bin\Debug\HashSet.exe.config
+D:\C#\CoursesTraining\Apis\Project 3\HashSet\bin\Debug\HashSet.exe
+D:\C#\CoursesTraining\Apis\Project 3\HashSet\bin\Debug\HashSet.pdb
+D:\C#\CoursesTraining\Apis\Project 3\HashSet\obj\Debug\HashSet.csproj.AssemblyReference.cache
+D:\C#\CoursesTraining\Apis\Project 3\HashSet\obj\Debug\HashSet.csproj.CoreCompileInputs.cache
+D:\C#\CoursesTraining\Apis\Project 3\HashSet\obj\Debug\HashSet.exe
+D:\C#\CoursesTraining\Apis\Project 3\HashSet\obj\Debug\HashSet.pdb

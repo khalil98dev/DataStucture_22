@@ -1,0 +1,7 @@
+D:\C#\CoursesTraining\HashSets_IsSubSet\bin\Debug\HashSets_IsSubSet.exe.config
+D:\C#\CoursesTraining\HashSets_IsSubSet\bin\Debug\HashSets_IsSubSet.exe
+D:\C#\CoursesTraining\HashSets_IsSubSet\bin\Debug\HashSets_IsSubSet.pdb
+D:\C#\CoursesTraining\HashSets_IsSubSet\obj\Debug\HashSets_IsSubSet.csproj.AssemblyReference.cache
+D:\C#\CoursesTraining\HashSets_IsSubSet\obj\Debug\HashSets_IsSubSet.csproj.CoreCompileInputs.cache
+D:\C#\CoursesTraining\HashSets_IsSubSet\obj\Debug\HashSets_IsSubSet.exe
+D:\C#\CoursesTraining\HashSets_IsSubSet\obj\Debug\HashSets_IsSubSet.pdb

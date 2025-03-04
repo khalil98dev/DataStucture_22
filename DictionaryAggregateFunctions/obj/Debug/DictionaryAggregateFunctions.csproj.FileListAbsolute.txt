@@ -1,0 +1,7 @@
+D:\C#\CoursesTraining\Apis\Project 3\DictionaryAggregateFunctions\bin\Debug\DictionaryAggregateFunctions.exe.config
+D:\C#\CoursesTraining\Apis\Project 3\DictionaryAggregateFunctions\bin\Debug\DictionaryAggregateFunctions.exe
+D:\C#\CoursesTraining\Apis\Project 3\DictionaryAggregateFunctions\bin\Debug\DictionaryAggregateFunctions.pdb
+D:\C#\CoursesTraining\Apis\Project 3\DictionaryAggregateFunctions\obj\Debug\DictionaryAggregateFunctions.csproj.AssemblyReference.cache
+D:\C#\CoursesTraining\Apis\Project 3\DictionaryAggregateFunctions\obj\Debug\DictionaryAggregateFunctions.csproj.CoreCompileInputs.cache
+D:\C#\CoursesTraining\Apis\Project 3\DictionaryAggregateFunctions\obj\Debug\DictionaryAggregateFunctions.exe
+D:\C#\CoursesTraining\Apis\Project 3\DictionaryAggregateFunctions\obj\Debug\DictionaryAggregateFunctions.pdb
