@@ -1,0 +1,7 @@
+D:\C#\CoursesTraining\SortArrray\obj\Debug\SortArrray.csproj.AssemblyReference.cache
+D:\C#\CoursesTraining\SortArrray\obj\Debug\SortArrray.csproj.CoreCompileInputs.cache
+D:\C#\CoursesTraining\SortArrray\bin\Debug\SortArrray.exe.config
+D:\C#\CoursesTraining\SortArrray\bin\Debug\SortArrray.exe
+D:\C#\CoursesTraining\SortArrray\bin\Debug\SortArrray.pdb
+D:\C#\CoursesTraining\SortArrray\obj\Debug\SortArrray.exe
+D:\C#\CoursesTraining\SortArrray\obj\Debug\SortArrray.pdb

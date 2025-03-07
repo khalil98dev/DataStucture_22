@@ -1,0 +1,7 @@
+D:\C#\CoursesTraining\PreorderBinaryTree\bin\Debug\PreorderBinaryTree.exe.config
+D:\C#\CoursesTraining\PreorderBinaryTree\bin\Debug\PreorderBinaryTree.exe
+D:\C#\CoursesTraining\PreorderBinaryTree\bin\Debug\PreorderBinaryTree.pdb
+D:\C#\CoursesTraining\PreorderBinaryTree\obj\Debug\PreorderBinaryTree.csproj.AssemblyReference.cache
+D:\C#\CoursesTraining\PreorderBinaryTree\obj\Debug\PreorderBinaryTree.csproj.CoreCompileInputs.cache
+D:\C#\CoursesTraining\PreorderBinaryTree\obj\Debug\PreorderBinaryTree.exe
+D:\C#\CoursesTraining\PreorderBinaryTree\obj\Debug\PreorderBinaryTree.pdb

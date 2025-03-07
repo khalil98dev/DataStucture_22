@@ -1,0 +1,7 @@
+D:\C#\CoursesTraining\ImplementGraphByAdjacencyMatrix\obj\Debug\ImplementGraphByAdjacencyMatrix.csproj.AssemblyReference.cache
+D:\C#\CoursesTraining\ImplementGraphByAdjacencyMatrix\obj\Debug\ImplementGraphByAdjacencyMatrix.csproj.CoreCompileInputs.cache
+D:\C#\CoursesTraining\ImplementGraphByAdjacencyMatrix\bin\Debug\ImplementGraphByAdjacencyMatrix.exe.config
+D:\C#\CoursesTraining\ImplementGraphByAdjacencyMatrix\bin\Debug\ImplementGraphByAdjacencyMatrix.exe
+D:\C#\CoursesTraining\ImplementGraphByAdjacencyMatrix\bin\Debug\ImplementGraphByAdjacencyMatrix.pdb
+D:\C#\CoursesTraining\ImplementGraphByAdjacencyMatrix\obj\Debug\ImplementGraphByAdjacencyMatrix.exe
+D:\C#\CoursesTraining\ImplementGraphByAdjacencyMatrix\obj\Debug\ImplementGraphByAdjacencyMatrix.pdb
