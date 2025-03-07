@@ -14,7 +14,7 @@ namespace ImplementGraphByAdjacencyMatrix
         public class WeightObj
         {
             int Weight { get; set; }
-            public string relation { get; set; }    
+            public string relation { get; set; }
 
             public WeightObj(int Weight)
             {
@@ -25,10 +25,10 @@ namespace ImplementGraphByAdjacencyMatrix
 
             public WeightObj()
             {
-                
+
             }
 
-            public WeightObj(string relation) 
+            public WeightObj(string relation)
             {
                 this.relation = relation;
             }
@@ -36,14 +36,15 @@ namespace ImplementGraphByAdjacencyMatrix
 
             public override string ToString()
             {
-                
-                return relation??"not";
+
+                return relation ?? "not";
             }
         }
         [Description("The firt T templae value for the vertcies Data type and the second Tt for the Weight Object Type")]
         public class Graph<T>
         {
             public enum eGraphType { eDirected = 1, eUndirected = 2 }
+
             private eGraphType Type { get; set; }
 
             private WeightObj[,] _AdjacencyMatrix { get; set; }
@@ -51,7 +52,6 @@ namespace ImplementGraphByAdjacencyMatrix
             private Dictionary<T, int> _VarticiesDictionary { get; set; }
 
             private int _MatrixRowsColumn { get; set; }
-
 
             public Graph(List<T> ListOfVetricies, eGraphType Type)
             {
@@ -73,9 +73,6 @@ namespace ImplementGraphByAdjacencyMatrix
 
 
             }
-
-
-
 
             public void AddEdje(T Source, T Distination, WeightObj Weight)
             {
@@ -141,27 +138,26 @@ namespace ImplementGraphByAdjacencyMatrix
                 }
 
             }
-        
+
             public void RemoveEdje(T Source, T Distination)
             {
                 AddEdje(Source, Distination, null);
             }
-        
 
             public int GetInDegree(T item)
             {
                 _VarticiesDictionary.TryGetValue(item, out int IndexOfItem);
 
-                int InDegree = 0; 
-                for(int i=0; i < _MatrixRowsColumn;i++)
+                int InDegree = 0;
+                for (int i = 0; i < _MatrixRowsColumn; i++)
                 {
-                    if (_AdjacencyMatrix[IndexOfItem,i]!=null)
+                    if (_AdjacencyMatrix[IndexOfItem, i] != null)
                     {
                         InDegree++;
                     }
                 }
 
-                return InDegree; 
+                return InDegree;
             }
 
             public int GetOutDegree(T item)
@@ -181,9 +177,17 @@ namespace ImplementGraphByAdjacencyMatrix
             }
 
 
+            public bool IsEdje(T Source, T Destination)
+
+            {
+                _VarticiesDictionary.TryGetValue(Source, out int IndexOfSource);
+                _VarticiesDictionary.TryGetValue(Destination, out int IndexOfDestination);
+
+
+                return _AdjacencyMatrix[IndexOfSource, IndexOfDestination] != null;
+
+            }
         }
-
-
 
         static void Main(string[] args)
         {
@@ -220,7 +224,16 @@ namespace ImplementGraphByAdjacencyMatrix
             //WeightObj myGraph2 = new WeightObj();  
             //Console.WriteLine(myGraph2.ToString());
 
-            Console.ReadLine(); 
+
+            Console.WriteLine($"is A edje to B {myGraph.IsEdje("A", "B")}");
+            Console.WriteLine($"is A edje to C {myGraph.IsEdje("A", "C")}");
+            Console.WriteLine($"is A edje to D {myGraph.IsEdje("A", "D")}");
+            Console.WriteLine($"is B edje to D {myGraph.IsEdje("B", "D")}");
+            Console.WriteLine($"is B edje to C {myGraph.IsEdje("B", "C")}");
+
+            Console.ReadLine();
         }
+    
     }
+
 }

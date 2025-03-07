@@ -5,3 +5,10 @@ D:\C#\CoursesTraining\ImplementGraphByAdjacencyMatrix\bin\Debug\ImplementGraphBy
 D:\C#\CoursesTraining\ImplementGraphByAdjacencyMatrix\bin\Debug\ImplementGraphByAdjacencyMatrix.pdb
 D:\C#\CoursesTraining\ImplementGraphByAdjacencyMatrix\obj\Debug\ImplementGraphByAdjacencyMatrix.exe
 D:\C#\CoursesTraining\ImplementGraphByAdjacencyMatrix\obj\Debug\ImplementGraphByAdjacencyMatrix.pdb
+D:\C#\CoursesTraining\Course 22\DataStucture_22\ImplementGraphByAdjacencyMatrix\bin\Debug\ImplementGraphByAdjacencyMatrix.exe.config
+D:\C#\CoursesTraining\Course 22\DataStucture_22\ImplementGraphByAdjacencyMatrix\bin\Debug\ImplementGraphByAdjacencyMatrix.exe
+D:\C#\CoursesTraining\Course 22\DataStucture_22\ImplementGraphByAdjacencyMatrix\bin\Debug\ImplementGraphByAdjacencyMatrix.pdb
+D:\C#\CoursesTraining\Course 22\DataStucture_22\ImplementGraphByAdjacencyMatrix\obj\Debug\ImplementGraphByAdjacencyMatrix.csproj.AssemblyReference.cache
+D:\C#\CoursesTraining\Course 22\DataStucture_22\ImplementGraphByAdjacencyMatrix\obj\Debug\ImplementGraphByAdjacencyMatrix.csproj.CoreCompileInputs.cache
+D:\C#\CoursesTraining\Course 22\DataStucture_22\ImplementGraphByAdjacencyMatrix\obj\Debug\ImplementGraphByAdjacencyMatrix.exe
+D:\C#\CoursesTraining\Course 22\DataStucture_22\ImplementGraphByAdjacencyMatrix\obj\Debug\ImplementGraphByAdjacencyMatrix.pdb

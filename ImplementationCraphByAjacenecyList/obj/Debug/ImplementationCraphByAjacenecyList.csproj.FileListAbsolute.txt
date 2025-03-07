@@ -1,0 +1,7 @@
+D:\C#\CoursesTraining\Course 22\DataStucture_22\ImplementationCraphByAjacenecyList\bin\Debug\ImplementationCraphByAjacenecyList.exe.config
+D:\C#\CoursesTraining\Course 22\DataStucture_22\ImplementationCraphByAjacenecyList\bin\Debug\ImplementationCraphByAjacenecyList.exe
+D:\C#\CoursesTraining\Course 22\DataStucture_22\ImplementationCraphByAjacenecyList\bin\Debug\ImplementationCraphByAjacenecyList.pdb
+D:\C#\CoursesTraining\Course 22\DataStucture_22\ImplementationCraphByAjacenecyList\obj\Debug\ImplementationCraphByAjacenecyList.csproj.AssemblyReference.cache
+D:\C#\CoursesTraining\Course 22\DataStucture_22\ImplementationCraphByAjacenecyList\obj\Debug\ImplementationCraphByAjacenecyList.csproj.CoreCompileInputs.cache
+D:\C#\CoursesTraining\Course 22\DataStucture_22\ImplementationCraphByAjacenecyList\obj\Debug\ImplementationCraphByAjacenecyList.exe
+D:\C#\CoursesTraining\Course 22\DataStucture_22\ImplementationCraphByAjacenecyList\obj\Debug\ImplementationCraphByAjacenecyList.pdb
